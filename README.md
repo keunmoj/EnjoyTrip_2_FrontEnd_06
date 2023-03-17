@@ -3,10 +3,17 @@
 
 ![image](https://user-images.githubusercontent.com/95362886/225950572-3cddbc50-29e1-4b5d-a934-6fd327f8d5f1.png)
 
+## 사이트맵 / 전체적인 메뉴 구성 화면
+
+![image](https://user-images.githubusercontent.com/95362886/225951971-87755a10-79a3-441c-a520-363cc4aad928.png)
+
 ## 관광지 정보 조회
 
+### 검색어: 부산 -> 관광지 -> 절
 ![image](https://user-images.githubusercontent.com/95362886/225950927-c372ddf6-563c-4cef-beb1-713473730437.png)
+### 검색어: 부산 -> 숙박 -> 호텔
 ![image](https://user-images.githubusercontent.com/95362886/225951121-302e3112-3d44-45b6-ab29-b056197b2d74.png)
+### 검색어: 부산 -> 음식점 -> 카페
 ![image](https://user-images.githubusercontent.com/95362886/225951341-fb4fa567-0b12-4679-895b-eee6b8e41530.png)
 
 
@@ -20,9 +27,7 @@
 
 ![image](https://user-images.githubusercontent.com/95362886/225951472-92a512db-5328-406a-9ad4-684c21cc2a6c.png)
 
-## 사이트맵 / 전체적인 메뉴 구성 화면
 
-![image](https://user-images.githubusercontent.com/95362886/225951971-87755a10-79a3-441c-a520-363cc4aad928.png)
 
 ## 여행코스보기 클릭시 화면 -> 모달
 
