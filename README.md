@@ -1,7 +1,7 @@
 
 ## 메인 페이지 및 메뉴 구성
 
-![image](https://user-images.githubusercontent.com/95362886/225950572-3cddbc50-29e1-4b5d-a934-6fd327f8d5f1.png)
+![Image Pasted at 2023-3-28 08-54](https://user-images.githubusercontent.com/94428183/228093011-6bdab9c5-b57a-43ab-8774-2f45aa4dd327.png)
 
 ## 사이트맵 / 전체적인 메뉴 구성 화면
 
