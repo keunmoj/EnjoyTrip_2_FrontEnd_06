@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.card img .card{
+    transition: all 0.4s linear;
+}
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.4s ease-out;
+    cursor: pointer;
+}
+
+.modalWrapper {
+  /* 화면에 꽉 차게 하는 코드(여기서는 너비를 꽉 채우는 용도) */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  
+  /* 위아래 너비를 준 상태에서 가로 50%, 세로 50%를 이동시킬 수 있다 (= 한가운데 배치) */
+  transform: translate(-50%, -50%);
+  
+  /* 위의 overlay 배경보다 한 단계 더 높게 배치 */
+  z-index: 300;
+  
+  
+}
