@@ -5,7 +5,11 @@
 
 ## 사이트맵 / 전체적인 메뉴 구성 화면
 
-![image](https://user-images.githubusercontent.com/95362886/225951971-87755a10-79a3-441c-a520-363cc4aad928.png)
+![Image Pasted at 2023-3-28 09-02](https://user-images.githubusercontent.com/94428183/228093184-364aad30-cf1c-4fe6-a7f0-cccfed527d5d.png)
+
+## 모달창 구성
+![Image Pasted at 2023-3-28 09-02 (1)](https://user-images.githubusercontent.com/94428183/228093262-30e47b40-a226-4a5e-b9d8-b2f4a068d0fa.png)
+
 
 ## 관광지 정보 조회
 
@@ -17,21 +21,21 @@
 ![image](https://user-images.githubusercontent.com/95362886/225951341-fb4fa567-0b12-4679-895b-eee6b8e41530.png)
 
 
-## 회원관리 페이지
+## 회원가입 페이지
 
-![image](https://user-images.githubusercontent.com/95362886/225951708-2077bd50-1bb3-4a23-8d98-c6a55cb7fd47.png)
+![image](https://user-images.githubusercontent.com/94428183/228093373-7e9aecbe-d18f-479e-ab1e-5564bac494c5.png)
 
-![image](https://user-images.githubusercontent.com/95362886/225951429-af1df82d-8b9c-4d58-bc99-bd1e1264e224.png)
 
 ## 로그인 / 로그아웃페이지
 
-![image](https://user-images.githubusercontent.com/95362886/225951472-92a512db-5328-406a-9ad4-684c21cc2a6c.png)
+![image](https://user-images.githubusercontent.com/94428183/228093507-4c18588c-c92c-4c45-be54-7797d4e65042.png)
+
+![image](https://user-images.githubusercontent.com/94428183/228093564-2f8979ae-972c-41a0-984a-bb3d1ceb2a4d.png)
 
 
+## 회원 관리 페이지
+![image](https://user-images.githubusercontent.com/94428183/228093448-c209da5a-f7ee-4e8a-b2e8-ad81e7e84525.png)
 
-## 여행코스보기 클릭시 화면 -> 모달
-
-![image](https://user-images.githubusercontent.com/95362886/225952417-649e743b-65c9-4986-8e6c-ca0726d435f6.png)
 
 ## 한국 관광공사 유튜브, 인스타, 페이스북 연결
 
